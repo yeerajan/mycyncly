@@ -58,6 +58,7 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "C_Cpp.default.compilerPath": "gcc",
   "files.associations": {
-    "cmath": "cpp"
+    "cmath": "cpp",
+    "iosfwd": "cpp"
   }
 }
